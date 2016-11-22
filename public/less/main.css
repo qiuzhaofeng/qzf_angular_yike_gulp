@@ -497,6 +497,10 @@ img {
 .collapse {
   transform: translate(12.8125rem);
 }
+.loading {
+  width: 2rem;
+  margin: 1rem auto 0;
+}
 .navs {
   width: 12.8125rem;
   height: 100%;
